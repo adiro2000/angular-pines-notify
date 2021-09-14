@@ -1,0 +1,27 @@
+{
+  "name": "angular-pines-notify",
+  "version": "1.0.0",
+  "description": "Note: This project is not maintained anymore.",
+  "main": "./src/pnotify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykabam/angular-pines-notify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mykabam/angular-pines-notify/issues"
+  },
+  "homepage": "https://github.com/mykabam/angular-pines-notify#readme",
+  "dependencies": {
+    "angular": "~1",
+    "pnotify": "3.0.0",
+    "jquery": ">=1.9"
+  },
+  "_resolved": "",
+  "_integrity": "",
+  "_from": "angular-pines-notify@git+https://PDGAV@bitbucket.org/adrian_gavrilescu/angular-pines-notify.git"
+}
